@@ -1,0 +1,80 @@
+{
+  "test_metrics": {
+    "XGBoost": {
+      "accuracy": 0.461,
+      "auc_roc": 0.4851
+    },
+    "LightGBM": {
+      "accuracy": 0.5177,
+      "auc_roc": 0.4891
+    },
+    "RandomForest": {
+      "accuracy": 0.4468,
+      "auc_roc": 0.4422
+    },
+    "MLP": {
+      "accuracy": 0.4681,
+      "auc_roc": 0.4857
+    },
+    "SimpleEnsemble": {
+      "accuracy": 0.5035,
+      "auc_roc": 0.4849
+    },
+    "StackingMeta": {
+      "accuracy": 0.5035,
+      "auc_roc": 0.4923
+    }
+  },
+  "oof_metrics": {
+    "XGBoost": {
+      "oof_acc": 0.4855721393034826,
+      "oof_auc": 0.47780868159558787
+    },
+    "LightGBM": {
+      "oof_acc": 0.5213930348258706,
+      "oof_auc": 0.5281799236121015
+    },
+    "RandomForest": {
+      "oof_acc": 0.49154228855721394,
+      "oof_auc": 0.4699836764449516
+    },
+    "MLP": {
+      "oof_acc": 0.5154228855721393,
+      "oof_auc": 0.528673196088686
+    }
+  },
+  "n_train": 1005,
+  "n_test": 141,
+  "n_features": 29,
+  "feature_cols": [
+    "t1_overall_wr",
+    "t2_overall_wr",
+    "t1_recent_wr",
+    "t2_recent_wr",
+    "t1_form5",
+    "t2_form5",
+    "h2h_t1_wr",
+    "t1_venue_wr",
+    "t2_venue_wr",
+    "toss_winner_is_t1",
+    "t1_elo",
+    "t2_elo",
+    "elo_diff",
+    "elo_win_prob_t1",
+    "temp_avg",
+    "precipitation",
+    "windspeed",
+    "humidity_evening",
+    "dewpoint_evening",
+    "rain_risk",
+    "dew_risk",
+    "flatness_index",
+    "pace_score",
+    "spin_score",
+    "dew_factor",
+    "pitch_flat",
+    "pitch_spin",
+    "pitch_pace",
+    "pitch_balanced"
+  ]
+}

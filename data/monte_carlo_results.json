@@ -1,0 +1,42 @@
+{
+  "Chennai Super Kings": {
+    "win_probability": 0.133,
+    "playoff_probability": 0.5741
+  },
+  "Delhi Capitals": {
+    "win_probability": 0.0971,
+    "playoff_probability": 0.5577
+  },
+  "Gujarat Titans": {
+    "win_probability": 0.3619,
+    "playoff_probability": 0.8356
+  },
+  "Kolkata Knight Riders": {
+    "win_probability": 0.0358,
+    "playoff_probability": 0.2665
+  },
+  "Lucknow Super Giants": {
+    "win_probability": 0.1947,
+    "playoff_probability": 0.6485
+  },
+  "Mumbai Indians": {
+    "win_probability": 0.0449,
+    "playoff_probability": 0.287
+  },
+  "Punjab Kings": {
+    "win_probability": 0.013,
+    "playoff_probability": 0.1308
+  },
+  "Rajasthan Royals": {
+    "win_probability": 0.0298,
+    "playoff_probability": 0.2066
+  },
+  "Royal Challengers Bengaluru": {
+    "win_probability": 0.0121,
+    "playoff_probability": 0.1161
+  },
+  "Sunrisers Hyderabad": {
+    "win_probability": 0.0776,
+    "playoff_probability": 0.3772
+  }
+}

@@ -1,0 +1,21 @@
+match_num,date,home_team,away_team,venue,home_win_prob,away_win_prob,predicted_winner
+1st T20I,2026-03-28,Royal Challengers Bengaluru,Sunrisers Hyderabad,M Chinnaswamy Stadium,0.5025,0.4975,Royal Challengers Bengaluru
+2nd  T20I,2026-03-29,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,0.4909,0.5091,Kolkata Knight Riders
+3rd  T20I,2026-03-30,Rajasthan Royals,Chennai Super Kings,ACA Stadium,0.3658,0.6342,Chennai Super Kings
+4th  T20I,2026-03-31,Punjab Kings,Gujarat Titans,PCA Stadium,0.3945,0.6055,Gujarat Titans
+5th  T20I,2026-04-01,Lucknow Super Giants,Delhi Capitals,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0.768,0.232,Lucknow Super Giants
+6th  T20I,2026-04-02,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,0.5117,0.4883,Kolkata Knight Riders
+7th  T20I,2026-04-03,Chennai Super Kings,Punjab Kings,MA Chidambaram Stadium,0.5184,0.4816,Chennai Super Kings
+8th  T20I,2026-04-04,Delhi Capitals,Mumbai Indians,Arun Jaitley Stadium,0.3991,0.6009,Mumbai Indians
+9th  T20I,2026-04-04,Gujarat Titans,Rajasthan Royals,Narendra Modi Stadium,0.656,0.344,Gujarat Titans
+10th  T20I,2026-04-05,Sunrisers Hyderabad,Lucknow Super Giants,Rajiv Gandhi International Stadium,0.4411,0.5589,Lucknow Super Giants
+11th  T20I,2026-04-05,Royal Challengers Bengaluru,Chennai Super Kings,M Chinnaswamy Stadium,0.4361,0.5639,Chennai Super Kings
+12th  T20I,2026-04-06,Kolkata Knight Riders,Punjab Kings,Eden Gardens,0.4772,0.5228,Punjab Kings
+13th  T20I,2026-04-07,Rajasthan Royals,Mumbai Indians,ACA Stadium,0.4469,0.5531,Mumbai Indians
+14th  T20I,2026-04-08,Delhi Capitals,Gujarat Titans,Arun Jaitley Stadium,0.4457,0.5543,Gujarat Titans
+15th  T20I,2026-04-09,Kolkata Knight Riders,Lucknow Super Giants,Eden Gardens,0.5617,0.4383,Kolkata Knight Riders
+16th  T20I,2026-04-10,Rajasthan Royals,Royal Challengers Bengaluru,ACA Stadium,0.6024,0.3976,Rajasthan Royals
+17th  T20I,2026-04-11,Punjab Kings,Sunrisers Hyderabad,PCA Stadium,0.4749,0.5251,Sunrisers Hyderabad
+18th  T20I,2026-04-11,Chennai Super Kings,Delhi Capitals,MA Chidambaram Stadium,0.4663,0.5337,Delhi Capitals
+19th  T20I,2026-04-12,Lucknow Super Giants,Gujarat Titans,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,0.3502,0.6498,Gujarat Titans
+20th  T20I,2026-04-12,Mumbai Indians,Royal Challengers Bengaluru,Wankhede Stadium,0.529,0.471,Mumbai Indians
