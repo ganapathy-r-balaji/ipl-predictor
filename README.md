@@ -2,7 +2,18 @@
 
 **An end-to-end AI-powered cricket match prediction pipeline** using 17 years of historical IPL data (2008–2025), enriched with pitch profiles, weather data, ELO ratings, and player form features — culminating in an ensemble of ML models and two fully interactive match simulator dashboards (a self-contained HTML file and a Streamlit web app).
 
-Built by **Ganapathy Raaman Balaji**
+---
+
+### Author
+
+**Ganapathy Raaman Balaji**
+Sr. Data Scientist — Aftermarket Analytics · Caterpillar Inc.
+
+| | |
+|---|---|
+| 🔗 LinkedIn | [linkedin.com/in/ganapathybalaji](https://www.linkedin.com/in/ganapathybalaji/) |
+| 📧 Email | [bgraaman89@gmail.com](mailto:bgraaman89@gmail.com) |
+| 📞 Phone | +1 309-424-8222 · +91 638-269-4439 |
 
 ---
 
